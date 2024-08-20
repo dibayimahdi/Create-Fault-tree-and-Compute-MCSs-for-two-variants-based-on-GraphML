@@ -1,0 +1,2134 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <key id="key0" for="all" attr.name="label" attr.type="string"/>
+    <key id="key1" for="node" attr.name="name" attr.type="string"/>
+    <key id="key2" for="node" attr.name="vehicles" attr.type="string"/>
+    <key id="key3" for="node" attr.name="info" attr.type="string"/>
+    <key id="key4" for="node" attr.name="redundancy" attr.type="string"/>
+    <key id="key5" for="all" attr.name="variants" attr.type="string"/>
+    <key id="key6" for="edge" attr.name="linkSrcNum" attr.type="int"/>
+    <key id="key7" for="edge" attr.name="linkDstNum" attr.type="int"/>
+    <key id="key8" for="edge" attr.name="propagationDelay" attr.type="long"/>
+    <key id="key9" for="edge" attr.name="clockAccuracy" attr.type="long"/>
+    <graph edgedefault="directed">
+        <node id="1">
+            <data key="key0">SPCS_A1_CP1604_A1</data>
+            <data key="key1">SPCS_A1_CP1604_A1</data>
+            <data key="key2">A</data>
+            <data key="key3">controller</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="2">
+            <data key="key0">SPCS_A1_DP_A3</data>
+            <data key="key1">SPCS_A1_DP_A3</data>
+            <data key="key2">A</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="3">
+            <data key="key0">SPCS_A1_PBC__A2</data>
+            <data key="key1">SPCS_A1_PBC__A2</data>
+            <data key="key2">A</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="4">
+            <data key="key0">SPCS_A1_SPSW_A1</data>
+            <data key="key1">SPCS_A1_SPSW_A1</data>
+            <data key="key2">A</data>
+            <data key="key3">switch</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="5">
+            <data key="key0">SPCS_A1_DP_C3</data>
+            <data key="key1">SPCS_A1_DP_C3</data>
+            <data key="key2">C</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="6">
+            <data key="key0">SPCS_A1_DP_A6</data>
+            <data key="key1">SPCS_A1_DP_A6</data>
+            <data key="key2">A</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="7">
+            <data key="key0">SPCS_A1_HVACC_A1</data>
+            <data key="key1">SPCS_A1_HVACC_A1</data>
+            <data key="key2">A</data>
+            <data key="key3">hvac</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="8">
+            <data key="key0">SPCS_A1_ETB_L_A1</data>
+            <data key="key1">SPCS_A1_ETB_L_A1</data>
+            <data key="key2">A</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="9">
+            <data key="key0">SPCS_A1_DOOR_A4</data>
+            <data key="key1">SPCS_A1_DOOR_A4</data>
+            <data key="key2">A</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_A2</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="10">
+            <data key="key0">SPCS_A1_RADIO_A1</data>
+            <data key="key1">SPCS_A1_RADIO_A1</data>
+            <data key="key2">A</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="11">
+            <data key="key0">SPCS_A1_DP_A1</data>
+            <data key="key1">SPCS_A1_DP_A1</data>
+            <data key="key2">A</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>k
+        <node id="12">
+            <data key="key0">SPCS_A1_DP_A2</data>
+            <data key="key1">SPCS_A1_DP_A2</data>
+            <data key="key2">A</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="13">
+            <data key="key0">SPCS_A1_PBC__A1</data>
+            <data key="key1">SPCS_A1_PBC__A1</data>
+            <data key="key2">A</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="14">
+            <data key="key0">SPCS_A1_DP_A7</data>
+            <data key="key1">SPCS_A1_DP_A7</data>
+            <data key="key2">A</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="15">
+            <data key="key0">SPCS_A1_TCU__A2</data>
+            <data key="key1">SPCS_A1_TCU__A2</data>
+            <data key="key2">A</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="16">
+            <data key="key0">SPCS_A1_TMSA_A1</data>
+            <data key="key1">SPCS_A1_TMSA_A1</data>
+            <data key="key2">A</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="17">
+            <data key="key0">SPCS_A1_DP_A4</data>
+            <data key="key1">SPCS_A1_DP_A4</data>
+            <data key="key2">A</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="18">
+            <data key="key0">SPCS_A1_TCU__A1</data>
+            <data key="key1">SPCS_A1_TCU__A1</data>
+            <data key="key2">A</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="19">
+            <data key="key0">SPCS_A1_DP_C1</data>
+            <data key="key1">SPCS_A1_DP_C1</data>
+            <data key="key2">C</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="20">
+            <data key="key0">SPCS_A1_HVACS_A1</data>
+            <data key="key1">SPCS_A1_HVACS_A1</data>
+            <data key="key2">A</data>
+            <data key="key3">hvac</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="21">
+            <data key="key0">SPCS_A1_DOOR_A1</data>
+            <data key="key1">SPCS_A1_DOOR_A1</data>
+            <data key="key2">A</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_A3</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="22">
+            <data key="key0">SPCS_A1_ACUB_A1</data>
+            <data key="key1">SPCS_A1_ACUB_A1</data>
+            <data key="key2">A</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="23">
+            <data key="key0">SPCS_A1_BCU__A1</data>
+            <data key="key1">SPCS_A1_BCU__A1</data>
+            <data key="key2">A</data>
+            <data key="key3">brakes</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="24">
+            <data key="key0">SPCS_A1_ACUB_A2</data>
+            <data key="key1">SPCS_A1_ACUB_A2</data>
+            <data key="key2">A</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="25">
+            <data key="key0">SPCS_A1_DOOR_A2</data>
+            <data key="key1">SPCS_A1_DOOR_A2</data>
+            <data key="key2">A</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_A4</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="26">
+            <data key="key0">SPCS_A1_DOOR_A3</data>
+            <data key="key1">SPCS_A1_DOOR_A3</data>
+            <data key="key2">A</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_A1</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="27">
+            <data key="key0">SPCS_A1_SPSW_B1</data>
+            <data key="key1">SPCS_A1_SPSW_B1</data>
+            <data key="key2">B</data>
+            <data key="key3">switch</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="28">
+            <data key="key0">SPCS_A1_DP_F3</data>
+            <data key="key1">SPCS_A1_DP_F3</data>
+            <data key="key2">F</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2</data>
+        </node>
+        <node id="29">
+            <data key="key0">SPCS_A1_DP_B6</data>
+            <data key="key1">SPCS_A1_DP_B6</data>
+            <data key="key2">B</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="30">
+            <data key="key0">SPCS_A1_EVC__B1</data>
+            <data key="key1">SPCS_A1_EVC__B1</data>
+            <data key="key2">B</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="31">
+            <data key="key0">SPCS_A1_JRU__B1</data>
+            <data key="key1">SPCS_A1_JRU__B1</data>
+            <data key="key2">B</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="32">
+            <data key="key0">SPCS_A1_DP_D3</data>
+            <data key="key1">SPCS_A1_DP_D3</data>
+            <data key="key2">D</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="33">
+            <data key="key0">SPCS_A1_ETB_L_B1</data>
+            <data key="key1">SPCS_A1_ETB_L_B1</data>
+            <data key="key2">B</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="34">
+            <data key="key0">SPCS_A1_DOOR_B4</data>
+            <data key="key1">SPCS_A1_DOOR_B4</data>
+            <data key="key2">B</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_B2</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="35">
+            <data key="key0">SPCS_A1_DP_B7</data>
+            <data key="key1">SPCS_A1_DP_B7</data>
+            <data key="key2">B</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="36">
+            <data key="key0">SPCS_A1_DP_B3</data>
+            <data key="key1">SPCS_A1_DP_B3</data>
+            <data key="key2">B</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="37">
+            <data key="key0">SPCS_A1_DP_B2</data>
+            <data key="key1">SPCS_A1_DP_B2</data>
+            <data key="key2">B</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="38">
+            <data key="key0">SPCS_A1_ACUB_B1</data>
+            <data key="key1">SPCS_A1_ACUB_B1</data>
+            <data key="key2">B</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="39">
+            <data key="key0">SPCS_A1_DP_B1</data>
+            <data key="key1">SPCS_A1_DP_B1</data>
+            <data key="key2">B</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="40">
+            <data key="key0">SPCS_A1_MVB__B1</data>
+            <data key="key1">SPCS_A1_MVB__B1</data>
+            <data key="key2">B</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="41">
+            <data key="key0">SPCS_A1_TCU__B1</data>
+            <data key="key1">SPCS_A1_TCU__B1</data>
+            <data key="key2">B</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="42">
+            <data key="key0">SPCS_A1_DP_B4</data>
+            <data key="key1">SPCS_A1_DP_B4</data>
+            <data key="key2">B</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="43">
+            <data key="key0">SPCS_A1_DP_F2</data>
+            <data key="key1">SPCS_A1_DP_F2</data>
+            <data key="key2">F</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2</data>
+        </node>
+        <node id="44">
+            <data key="key0">SPCS_A1_HVACS_B1</data>
+            <data key="key1">SPCS_A1_HVACS_B1</data>
+            <data key="key2">B</data>
+            <data key="key3">hvac</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="45">
+            <data key="key0">SPCS_A1_DOOR_B1</data>
+            <data key="key1">SPCS_A1_DOOR_B1</data>
+            <data key="key2">B</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_B3</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="46">
+            <data key="key0">SPCS_A1_DP_D2</data>
+            <data key="key1">SPCS_A1_DP_D2</data>
+            <data key="key2">D</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="47">
+            <data key="key0">SPCS_A1_TCU__B2</data>
+            <data key="key1">SPCS_A1_TCU__B2</data>
+            <data key="key2">B</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="48">
+            <data key="key0">SPCS_A1_TMSA_B1</data>
+            <data key="key1">SPCS_A1_TMSA_B1</data>
+            <data key="key2">B</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="49">
+            <data key="key0">SPCS_A1_PBC__B1</data>
+            <data key="key1">SPCS_A1_PBC__B1</data>
+            <data key="key2">B</data>
+            <data key="key3">subsystem</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="50">
+            <data key="key0">SPCS_A1_BCU__B1</data>
+            <data key="key1">SPCS_A1_BCU__B1</data>
+            <data key="key2">B</data>
+            <data key="key3">brakes</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="51">
+            <data key="key0">SPCS_A1_DOOR_B2</data>
+            <data key="key1">SPCS_A1_DOOR_B2</data>
+            <data key="key2">B</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_B4</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="52">
+            <data key="key0">SPCS_A1_DOOR_B3</data>
+            <data key="key1">SPCS_A1_DOOR_B3</data>
+            <data key="key2">B</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_B1</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="53">
+            <data key="key0">SPCS_A1_HVACC_B1</data>
+            <data key="key1">SPCS_A1_HVACC_B1</data>
+            <data key="key2">B</data>
+            <data key="key3">hvac</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="54">
+            <data key="key0">SPCS_A1_DOOR_C2</data>
+            <data key="key1">SPCS_A1_DOOR_C2</data>
+            <data key="key2">C</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_C4</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="55">
+            <data key="key0">SPCS_A1_BCU__C1</data>
+            <data key="key1">SPCS_A1_BCU__C1</data>
+            <data key="key2">C</data>
+            <data key="key3">brakes</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="56">
+            <data key="key0">SPCS_A1_DP_C2</data>
+            <data key="key1">SPCS_A1_DP_C2</data>
+            <data key="key2">C</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="57">
+            <data key="key0">SPCS_A1_DP_D1</data>
+            <data key="key1">SPCS_A1_DP_D1</data>
+            <data key="key2">D</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="58">
+            <data key="key0">SPCS_A1_HVAC_C2</data>
+            <data key="key1">SPCS_A1_HVAC_C2</data>
+            <data key="key2">C</data>
+            <data key="key3">hvac</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="59">
+            <data key="key0">SPCS_A1_DOOR_C3</data>
+            <data key="key1">SPCS_A1_DOOR_C3</data>
+            <data key="key2">C</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_C1</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="60">
+            <data key="key0">SPCS_A1_HVAC_C1</data>
+            <data key="key1">SPCS_A1_HVAC_C1</data>
+            <data key="key2">C</data>
+            <data key="key3">hvac</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="61">
+            <data key="key0">SPCS_A1_DOOR_C4</data>
+            <data key="key1">SPCS_A1_DOOR_C4</data>
+            <data key="key2">C</data>dp_nodes_v1
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_C2</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="62">
+            <data key="key0">SPCS_A1_DOOR_C1</data>
+            <data key="key1">SPCS_A1_DOOR_C1</data>
+            <data key="key2">C</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_C3</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="63">
+            <data key="key0">SPCS_A1_DP_E3</data>
+            <data key="key1">SPCS_A1_DP_E3</data>
+            <data key="key2">E</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2</data>
+        </node>
+        <node id="64">
+            <data key="key0">SPCS_A1_DOOR_D2</data>
+            <data key="key1">SPCS_A1_DOOR_D2</data>
+            <data key="key2">D</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_D4</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="65">
+            <data key="key0">SPCS_A1_BCU__D1</data>
+            <data key="key1">SPCS_A1_BCU__D1</data>
+            <data key="key2">D</data>
+            <data key="key3">brakes</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="66">
+            <data key="key0">SPCS_A1_DP_E1</data>
+            <data key="key1">SPCS_A1_DP_E1</data>
+            <data key="key2">E</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2</data>
+        </node>
+        <node id="67">
+            <data key="key0">SPCS_A1_HVAC_D2</data>
+            <data key="key1">SPCS_A1_HVAC_D2</data>
+            <data key="key2">D</data>
+            <data key="key3">hvac</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="68">
+            <data key="key0">SPCS_A1_DOOR_D3</data>
+            <data key="key1">SPCS_A1_DOOR_D3</data>
+            <data key="key2">D</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_D1</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="69">
+            <data key="key0">SPCS_A1_HVAC_D1</data>
+            <data key="key1">SPCS_A1_HVAC_D1</data>
+            <data key="key2">D</data>
+            <data key="key3">hvac</data>
+            <data key="key4"/>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="70">
+            <data key="key0">SPCS_A1_DOOR_D4</data>
+            <data key="key1">SPCS_A1_DOOR_D4</data>
+            <data key="key2">D</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_D2</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="71">
+            <data key="key0">SPCS_A1_DOOR_D1</data>
+            <data key="key1">SPCS_A1_DOOR_D1</data>
+            <data key="key2">D</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_D3</data>
+            <data key="key5">V2 V1</data>
+        </node>
+        <node id="72">
+            <data key="key0">SPCS_A1_DOOR_E2</data>
+            <data key="key1">SPCS_A1_DOOR_E2</data>
+            <data key="key2">E</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_E4</data>
+            <data key="key5">V2</data>
+        </node>
+        <node id="73">
+            <data key="key0">SPCS_A1_BCU__E1</data>
+            <data key="key1">SPCS_A1_BCU__E1</data>
+            <data key="key2">E</data>
+            <data key="key3">brakes</data>
+            <data key="key4"/>
+            <data key="key5">V2</data>
+        </node>
+        <node id="74">
+            <data key="key0">SPCS_A1_DP_E2</data>
+            <data key="key1">SPCS_A1_DP_E2</data>
+            <data key="key2">E</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2</data>
+        </node>
+        <node id="75">
+            <data key="key0">SPCS_A1_DP_F1</data>
+            <data key="key1">SPCS_A1_DP_F1</data>
+            <data key="key2">F</data>
+            <data key="key3">decentral periphery</data>
+            <data key="key4"/>
+            <data key="key5">V2</data>
+        </node>
+        <node id="76">
+            <data key="key0">SPCS_A1_HVAC_E2</data>
+            <data key="key1">SPCS_A1_HVAC_E2</data>
+            <data key="key2">E</data>
+            <data key="key3">hvac</data>
+            <data key="key4"/>
+            <data key="key5">V2</data>
+        </node>
+        <node id="77">
+            <data key="key0">SPCS_A1_DOOR_E3</data>
+            <data key="key1">SPCS_A1_DOOR_E3</data>
+            <data key="key2">E</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_E1</data>
+            <data key="key5">V2</data>
+        </node>
+        <node id="78">
+            <data key="key0">SPCS_A1_HVAC_E1</data>
+            <data key="key1">SPCS_A1_HVAC_E1</data>
+            <data key="key2">E</data>
+            <data key="key3">hvac</data>
+            <data key="key4"/>
+            <data key="key5">V2</data>
+        </node>
+        <node id="79">
+            <data key="key0">SPCS_A1_DOOR_E1</data>
+            <data key="key1">SPCS_A1_DOOR_E1</data>
+            <data key="key2">E</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_E3</data>
+            <data key="key5">V2</data>
+        </node>
+        <node id="80">
+            <data key="key0">SPCS_A1_DOOR_E4</data>
+            <data key="key1">SPCS_A1_DOOR_E4</data>
+            <data key="key2">E</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_E2</data>
+            <data key="key5">V2</data>
+        </node>
+        <node id="81">
+            <data key="key0">SPCS_A1_DOOR_F2</data>
+            <data key="key1">SPCS_A1_DOOR_F2</data>
+            <data key="key2">F</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_F4</data>
+            <data key="key5">V2</data>
+        </node>
+        <node id="82">
+            <data key="key0">SPCS_A1_BCU__F1</data>
+            <data key="key1">SPCS_A1_BCU__F1</data>
+            <data key="key2">F</data>
+            <data key="key3">brakes</data>
+            <data key="key4"/>
+            <data key="key5">V2</data>
+        </node>
+        <node id="83">
+            <data key="key0">SPCS_A1_HVAC_F2</data>
+            <data key="key1">SPCS_A1_HVAC_F2</data>
+            <data key="key2">F</data>
+            <data key="key3">hvac</data>
+            <data key="key4"/>
+            <data key="key5">V2</data>
+        </node>
+        <node id="84">
+            <data key="key0">SPCS_A1_DOOR_F3</data>
+            <data key="key1">SPCS_A1_DOOR_F3</data>
+            <data key="key2">F</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_F1</data>
+            <data key="key5">V2</data>
+        </node>
+        <node id="85">
+            <data key="key0">SPCS_A1_HVAC_F1</data>
+            <data key="key1">SPCS_A1_HVAC_F1</data>
+            <data key="key2">F</data>
+            <data key="key3">hvac</data>
+            <data key="key4"/>
+            <data key="key5">V2</data>
+        </node>
+        <node id="86">
+            <data key="key0">SPCS_A1_DOOR_F1</data>
+            <data key="key1">SPCS_A1_DOOR_F1</data>
+            <data key="key2">F</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_F3</data>
+            <data key="key5">V2</data>
+        </node>
+        <node id="87">
+            <data key="key0">SPCS_A1_DOOR_F4</data>
+            <data key="key1">SPCS_A1_DOOR_F4</data>
+            <data key="key2">F</data>
+            <data key="key3">doors</data>
+            <data key="key4">SPCS_A1_DOOR_F2</data>
+            <data key="key5">V2</data>
+        </node>
+        <edge id="0" source="1" target="2">
+            <data key="key0">dev17_dev6</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">3</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="1" source="2" target="1">
+            <data key="key0">dev6_dev17</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">3</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="2" source="1" target="3">
+            <data key="key0">dev17_dev21</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="3" source="3" target="1">
+            <data key="key0">dev21_dev17</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="4" source="4" target="5">
+            <data key="key0">dev1_dev25</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="5" source="5" target="4">
+            <data key="key0">dev25_dev1</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="6" source="4" target="6">
+            <data key="key0">dev1_dev2</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="7" source="6" target="4">
+            <data key="key0">dev2_dev1</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="8" source="4" target="7">
+            <data key="key0">dev1_dev8</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="9" source="7" target="4">
+            <data key="key0">dev8_dev1</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="10" source="8" target="6">
+            <data key="key0">dev9_dev2</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="11" source="6" target="8">
+            <data key="key0">dev2_dev9</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="12" source="8" target="9">
+            <data key="key0">dev9_dev19</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="13" source="9" target="8">
+            <data key="key0">dev19_dev9</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="14" source="8" target="10">
+            <data key="key0">dev9_dev15</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="15" source="10" target="8">
+            <data key="key0">dev15_dev9</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="16" source="11" target="6">
+            <data key="key0">dev3_dev2</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="17" source="6" target="11">
+            <data key="key0">dev2_dev3</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="18" source="11" target="12">
+            <data key="key0">dev3_dev4</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="19" source="12" target="11">
+            <data key="key0">dev4_dev3</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="20" source="11" target="13">
+            <data key="key0">dev3_dev10</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="21" source="13" target="11">
+            <data key="key0">dev10_dev3</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="22" source="12" target="14">
+            <data key="key0">dev4_dev5</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="23" source="14" target="12">
+            <data key="key0">dev5_dev4</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="24" source="12" target="15">
+            <data key="key0">dev4_dev11</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="25" source="15" target="12">
+            <data key="key0">dev11_dev4</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="26" source="12" target="16">
+            <data key="key0">dev4_dev16</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">3</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="27" source="16" target="12">
+            <data key="key0">dev16_dev4</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">3</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="28" source="2" target="14">
+            <data key="key0">dev6_dev5</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="29" source="14" target="2">
+            <data key="key0">dev5_dev6</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="30" source="2" target="17">
+            <data key="key0">dev6_dev7</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="31" source="17" target="2">
+            <data key="key0">dev7_dev6</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="32" source="2" target="18">
+            <data key="key0">dev6_dev13</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="33" source="18" target="2">
+            <data key="key0">dev13_dev6</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="34" source="17" target="19">
+            <data key="key0">dev7_dev26</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="35" source="19" target="17">
+            <data key="key0">dev26_dev7</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="36" source="17" target="20">
+            <data key="key0">dev7_dev14</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="37" source="20" target="17">
+            <data key="key0">dev14_dev7</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="38" source="17" target="21">
+            <data key="key0">dev7_dev18</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">3</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="39" source="21" target="17">
+            <data key="key0">dev18_dev7</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">3</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="40" source="14" target="22">
+            <data key="key0">dev5_dev12</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="41" source="22" target="14">
+            <data key="key0">dev12_dev5</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="42" source="23" target="24">
+            <data key="key0">dev20_dev24</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="43" source="24" target="23">
+            <data key="key0">dev24_dev20</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+        DP    <data key="key9">0</data>
+        </edge>
+        <edge id="44" source="23" target="16">
+            <data key="key0">dev20_dev16</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="45" source="16" target="23">
+            <data key="key0">dev16_dev20</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="46" source="21" target="25">
+            <data key="key0">dev18_dev22</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="47" source="25" target="21">
+            <data key="key0">dev22_dev18</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="48" source="26" target="9">
+            <data key="key0">dev23_dev19</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="49" source="9" target="26">
+            <data key="key0">dev19_dev23</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="50" source="27" target="28">
+            <data key="key0">dev45_DP_F3</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="51" source="28" target="27">
+            <data key="key0">DP_F3_dev45</data>
+            <data key="key5">V2</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="52" source="27" target="29">
+            <data key="key0">dev45_dev46</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="53" source="29" target="27">
+            <data key="key0">dev46_dev45</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="54" source="27" target="30">
+            <data key="key0">dev45_dev53</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="55" source="30" target="27">
+            <data key="key0">dev53_dev45</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="56" source="27" target="31">
+            <data key="key0">dev45_dev61</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">3</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="57" source="31" target="27">
+            <data key="key0">dev61_dev45</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">3</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="58" source="27" target="32">
+            <data key="key0">dev45_dev35</data>
+            <data key="key5">V1</data>
+            <data key="key6">4</data>
+            <data key="key7">4</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="59" source="32" target="27">
+            <data key="key0">dev35_dev45</data>
+            <data key="key5">V1</data>
+            <data key="key6">4</data>
+            <data key="key7">4</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="60" source="33" target="29">
+            <data key="key0">dev54_dev46</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="61" source="29" target="33">
+            <data key="key0">dev46_dev54</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="62" source="33" target="34">
+            <data key="key0">dev54_dev62</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="63" source="34" target="33">
+            <data key="key0">dev62_dev54</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="64" source="35" target="36">
+            <data key="key0">dev49_dev50</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="65" source="36" target="35">
+            <data key="key0">dev50_dev49</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="66" source="35" target="37">
+            <data key="key0">dev49_dev48</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="67" source="37" target="35">
+            <data key="key0">dev48_dev49</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="68" source="35" target="38">
+            <data key="key0">dev49_dev57</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="69" source="38" target="35">
+            <data key="key0">dev57_dev49</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="70" source="29" target="39">
+            <data key="key0">dev46_dev47</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="71" source="39" target="29">
+            <data key="key0">dev47_dev46</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="72" source="36" target="40">
+            <data key="key0">dev50_dev51</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="73" source="40" target="36">
+            <data key="key0">dev51_dev50</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="74" source="36" target="41">
+            <data key="key0">dev50_dev58</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="75" source="41" target="36">
+            <data key="key0">dev58_dev50</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="76" source="42" target="40">
+            <data key="key0">dev52_dev51</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="77" source="40" target="42">
+            <data key="key0">dev51_dev52</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="78" source="42" target="43">
+            <data key="key0">dev52_DP_F2</data>
+            <data key="key5">V2</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="79" source="43" target="42">
+            <data key="key0">DP_F2_dev52</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="80" source="42" target="44">
+            <data key="key0">dev52_dev60</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="81" source="44" target="42">
+            <data key="key0">dev60_dev52</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="82" source="42" target="45">
+            <data key="key0">dev52_dev65</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">3</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="83" source="45" target="42">
+            <data key="key0">dev65_dev52</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">3</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="84" source="42" target="46">
+            <data key="key0">dev52_dev41</data>
+            <data key="key5">V1</data>
+            <data key="key6">4</data>
+            <data key="key7">3</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="85" source="46" target="42">
+            <data key="key0">dev41_dev52</data>
+            <data key="key5">V1</data>
+            <data key="key6">3</data>
+            <data key="key7">4</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="86" source="37" target="39">
+            <data key="key0">dev48_dev47</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="87" source="39" target="37">
+            <data key="key0">dev47_dev48</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="88" source="37" target="47">
+            <data key="key0">dev48_dev63</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="89" source="47" target="37">
+            <data key="key0">dev63_dev48</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="90" source="37" target="48">
+            <data key="key0">dev48_dev56</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">3</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="91" source="48" target="37">
+            <data key="key0">dev56_dev48</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">3</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="92" source="39" target="49">
+            <data key="key0">dev47_dev55</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="93" source="49" target="39">
+            <data key="key0">dev55_dev47</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="94" source="50" target="40">
+            <data key="key0">dev59_dev51</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">3</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="95" source="40" target="50">
+            <data key="key0">dev51_dev59</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">3</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="96" source="45" target="51">
+            <data key="key0">dev65_dev67</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="97" source="51" target="45">
+            <data key="key0">dev67_dev65</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="98" source="52" target="34">
+            <data key="key0">dev66_dev62</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="99" source="34" target="52">
+            <data key="key0">dev62_dev66</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="100" source="53" target="40">
+            <data key="key0">dev64_dev51</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="101" source="40" target="53">
+            <data key="key0">dev51_dev64</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="102" source="5" target="32">
+            <data key="key0">dev25_dev35</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="103" source="32" target="5">
+            <data key="key0">dev35_dev25</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="104" source="5" target="54">
+            <data key="key0">dev25_dev32</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="105" source="54" target="5">
+            <data key="key0">dev32_dev25</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="106" source="5" target="55">
+            <data key="key0">dev25_dev27</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">3</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="107" source="55" target="5">
+            <data key="key0">dev27_dev25</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">3</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="108" source="56" target="57">
+            <data key="key0">dev31_dev36</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="109" source="57" target="56">
+            <data key="key0">dev36_dev31</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="110" source="56" target="19">
+            <data key="key0">dev31_dev26</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="111" source="19" target="56">
+            <data key="key0">dev26_dev31</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="112" source="56" target="58">
+            <data key="key0">dev31_dev34</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="113" source="58" target="56">
+            <data key="key0">dev34_dev31</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="114" source="19" target="59">
+            <data key="key0">dev26_dev29</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="115" source="59" target="19">
+            <data key="key0">dev29_dev26</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="116" source="55" target="60">
+            <data key="key0">dev27_dev28</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="117" source="60" target="55">
+            <data key="key0">dev28_dev27</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="118" source="61" target="59">
+            <data key="key0">dev30_dev29</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="119" source="59" target="61">
+            <data key="key0">dev29_dev30</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="120" source="62" target="54">
+            <data key="key0">dev33_dev32</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="121" source="54" target="62">
+            <data key="key0">dev32_dev33</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="122" source="32" target="63">
+            <data key="key0">dev35_DP_E3</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="123" source="63" target="32">
+            <data key="key0">DP_E3_dev35</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="124" source="32" target="64">
+            <data key="key0">dev35_dev37</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="125" source="64" target="32">
+            <data key="key0">dev37_dev35</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="126" source="32" target="65">
+            <data key="key0">dev35_dev42</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">3</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="127" source="65" target="32">
+            <data key="key0">dev42_dev35</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">3</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="128" source="46" target="66">
+            <data key="key0">dev41_DP_E1</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="129" source="66" target="46">
+            <data key="key0">DP_E1_dev41</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="130" source="46" target="57">
+            <data key="key0">dev41_dev36</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="131" source="57" target="46">
+            <data key="key0">dev36_dev41</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="132" source="46" target="67">
+            <data key="key0">dev41_dev44</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="133" source="67" target="46">
+            <data key="key0">dev44_dev41</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="134" source="57" target="68">
+            <data key="key0">dev36_dev39</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">2</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="135" source="68" target="57">
+            <data key="key0">dev39_dev36</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">1</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="136" source="65" target="69">
+            <data key="key0">dev42_dev43</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="137" source="69" target="65">
+            <data key="key0">dev43_dev42</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="138" source="70" target="68">
+            <data key="key0">dev40_dev39</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="139" source="68" target="70">
+            <data key="key0">dev39_dev40</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="140" source="71" target="64">
+            <data key="key0">dev38_dev37</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="141" source="64" target="71">
+            <data key="key0">dev37_dev38</data>
+            <data key="key5">V2 V1</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="142" source="63" target="28">
+            <data key="key0">DP_E3_DP_F3</data>
+            <data key="key5">V2</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="143" source="28" target="63">
+            <data key="key0">DP_F3_DP_E3</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="144" source="63" target="72">
+            <data key="key0">DP_E3_DOOR_E2</data>
+            <data key="key5">V2</data>
+            <data key="key6">2</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="145" source="72" target="63">
+            <data key="key0">DOOR_E2_DP_E3</data>
+            <data key="key5">V2</data>
+            <data key="key6">1</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="146" source="63" target="73">
+            <data key="key0">DP_E3_BCU__E1</data>
+            <data key="key5">V2</data>
+            <data key="key6">3</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="147" source="73" target="63">
+            <data key="key0">BCU__E1_DP_E3</data>
+            <data key="key5">V2</data>
+            <data key="key6">1</data>
+            <data key="key7">3</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="148" source="74" target="75">
+            <data key="key0">DP_E2_DP_F1</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="149" source="75" target="74">
+            <data key="key0">DP_F1_DP_E2</data>
+            <data key="key5">V2</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="150" source="74" target="66">
+            <data key="key0">DP_E2_DP_E1</data>
+            <data key="key5">V2</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="151" source="66" target="74">
+            <data key="key0">DP_E1_DP_E2</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="152" source="74" target="76">
+            <data key="key0">DP_E2_HVAC_E2</data>
+            <data key="key5">V2</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="153" source="76" target="74">
+            <data key="key0">HVAC_E2_DP_E2</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="154" source="66" target="77">
+            <data key="key0">DP_E1_DOOR_E3</data>
+            <data key="key5">V2</data>
+            <data key="key6">2</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="155" source="77" target="66">
+            <data key="key0">DOOR_E3_DP_E1</data>
+            <data key="key5">V2</data>
+            <data key="key6">1</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="156" source="73" target="78">
+            <data key="key0">BCU__E1_HVAC_E1</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="157" source="78" target="73">
+            <data key="key0">HVAC_E1_BCU__E1</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="158" source="79" target="72">
+            <data key="key0">DOOR_E1_DOOR_E2</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="159" source="72" target="79">
+            <data key="key0">DOOR_E2_DOOR_E1</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="160" source="77" target="80">
+            <data key="key0">DOOR_E3_DOOR_E4</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="161" source="80" target="77">
+            <data key="key0">DOOR_E4_DOOR_E3</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="162" source="28" target="81">
+            <data key="key0">DP_F3_DOOR_F2</data>
+            <data key="key5">V2</data>
+            <data key="key6">2</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="163" source="81" target="28">
+            <data key="key0">DOOR_F2_DP_F3</data>
+            <data key="key5">V2</data>
+            <data key="key6">1</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="164" source="28" target="82">
+            <data key="key0">DP_F3_BCU__F1</data>
+            <data key="key5">V2</data>
+            <data key="key6">3</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="165" source="82" target="28">
+            <data key="key0">BCU__F1_DP_F3</data>
+            <data key="key5">V2</data>
+            <data key="key6">1</data>
+            <data key="key7">3</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="166" source="43" target="75">
+            <data key="key0">DP_F2_DP_F1</data>
+            <data key="key5">V2</data>
+            <data key="key6">1</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="167" source="75" target="43">
+            <data key="key0">DP_F1_DP_F2</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="168" source="43" target="83">
+            <data key="key0">DP_F2_HVAC_F2</data>
+            <data key="key5">V2</data>
+            <data key="key6">2</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="169" source="83" target="43">
+            <data key="key0">HVAC_F2_DP_F2</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="170" source="75" target="84">
+            <data key="key0">DP_F1_DOOR_F3</data>
+            <data key="key5">V2</data>
+            <data key="key6">2</data>
+            <data key="key7">1</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="171" source="84" target="75">
+            <data key="key0">DOOR_F3_DP_F1</data>
+            <data key="key5">V2</data>
+            <data key="key6">1</data>
+            <data key="key7">2</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="172" source="82" target="85">
+            <data key="key0">BCU__F1_HVAC_F1</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="173" source="85" target="82">
+            <data key="key0">HVAC_F1_BCU__F1</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="174" source="86" target="81">
+            <data key="key0">DOOR_F1_DOOR_F2</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="175" source="81" target="86">
+            <data key="key0">DOOR_F2_DOOR_F1</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="176" source="84" target="87">
+            <data key="key0">DOOR_F3_DOOR_F4</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+        <edge id="177" source="87" target="84">
+            <data key="key0">DOOR_F4_DOOR_F3</data>
+            <data key="key5">V2</data>
+            <data key="key6">0</data>
+            <data key="key7">0</data>
+            <data key="key8">200</data>
+            <data key="key9">0</data>
+        </edge>
+    </graph>
+</graphml>
